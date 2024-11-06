@@ -1,0 +1,45 @@
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+.vscode/
+*.swp
+
+# IDE-specific files
+*.vs/
+.idea/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Visual Studio Code settings
+.history/
+.vscode/**
+
+# Configuration
+secret.json
+
+# Docker
+**/*.tar
+Dockerfile
+
+# Entity Framework Migrations
+Migrations/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
